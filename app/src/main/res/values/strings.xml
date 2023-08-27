@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">TypeRace</string>
+    <string name="web_client_id" translatable="false">946658806004-dnt191bh84n2sc8426tb150lm60emt9e.apps.googleusercontent.com</string>
+    <string name="training">Training</string>
+    <string name="profile">Profile</string>
+    <string name="one_tap_sign_in">Sign in</string>
+    <string name="training_result">Result</string>
+    <string name="training_not_started">Type to start the test</string>
+    <string name="welcome_message">Welcome to TypeRace ! Please tap on the button below to register or sign in.</string>
+    <string name="login">Login</string>
+    <string name="new_test">New test</string>
+    <string name="retry_test">Retry</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="sign_out">Sign out</string>
+    <string name="Leave">Menu</string>
+    <string name="typed_text">Typed text</string>
+    <string name="settings">Settings</string>
+    <string name="practice_missed">Wrong Words</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="speed">Speed</string>
+    <string name="time">Time</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="spanish">Spanish</string>
+    <string name="german">German</string>
+    <string name="test_duration">Test duration</string>
+    <string name="font_size">Font size</string>
+    <string name="language">Language</string>
+    <string name="seconds">seconds</string>
+    <string name="sp">sp</string>
+    <string name="current_language">English</string>
+    <string name="empty" translatable="false" />
+</resources>

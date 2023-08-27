@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="training">Entrainement</string>
+    <string name="profile">Profil</string>
+    <string name="one_tap_sign_in">Connexion</string>
+    <string name="training_result">Resultat</string>
+    <string name="training_not_started">Tappez pour commencer le test</string>
+    <string name="welcome_message">Bienvenue sur TypeRace ! Cliquez sur le bouton ci-dessous pour vous inscrire ou vous connecter</string>
+    <string name="login">Connexion</string>
+    <string name="new_test">Nouveau test</string>
+    <string name="retry_test">Recommencer</string>
+    <string name="multiplayer">Multijoueur</string>
+    <string name="sign_out">Déconnexion</string>
+    <string name="Leave">Menu</string>
+    <string name="typed_text">Texte tappé</string>
+    <string name="settings">Paramètres</string>
+    <string name="practice_missed">Erreurs</string>
+    <string name="accuracy">Précision</string>
+    <string name="speed">Vitesse</string>
+    <string name="time">Temps</string>
+    <string name="english">Anglais</string>
+    <string name="french">Français</string>
+    <string name="spanish">Espagnol</string>
+    <string name="german">Allemand</string>
+    <string name="test_duration">Durée du test</string>
+    <string name="font_size">Taille de police</string>
+    <string name="language">Langage</string>
+    <string name="seconds">secondes</string>
+    <string name="sp">sp</string>
+    <string name="current_language">French</string>
+</resources>
