@@ -3,7 +3,7 @@
 
 So far, the app includes google authentication, and the typing field with smooth cursor and scroll animations and information / graphs about how you type. The goal is to implement a multiplayer mode using Firebase. 
 <p>
-The textfield has been designed to be as adaptative as possible for users to play on both tablets and smartphones : it handles screen rotations, and app resizing (if the app is open in a window). It also includes different languages, custom font size and test duration.
+The textfield has been designed to be as adaptative as possible for users to be able to play on both tablets and smartphones : it handles screen rotations, and app resizing (if the app is open in a window). It also includes different languages, custom font size and test duration.
 </p>
 
 <p>
