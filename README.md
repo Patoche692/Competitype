@@ -2,8 +2,9 @@
 [Unfinished] Typing speed Android app written in Kotlin, using Jetpack Compose and Firebase.
 
 So far, the app includes google authentication, and the typing field with smooth cursor and scroll animations and information / graphs about how you type. The goal is to implement a multiplayer mode using Firebase. 
-
-The textfield has been designed to be as adaptative as possible : it handles screen rotations, and app resizing (if the app is open in a window). It also includes different languages, custom font size and test duration.\n
+<p>
+The textfield has been designed to be as adaptative as possible : it handles screen rotations, and app resizing (if the app is open in a window). It also includes different languages, custom font size and test duration.
+</p>
 
 <p>
   <img src="https://github.com/Patoche692/Competitype/assets/54531293/de5da7f2-dd75-4925-b54f-593ab6fb792b" width="320"/>
