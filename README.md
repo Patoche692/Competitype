@@ -1,5 +1,5 @@
 # Competitype
-[Unfinished] CompetiType is a typing speed Android app written in Kotlin, using Jetpack Compose and Firebase.
+[In developement] CompetiType is a typing speed Android app written in Kotlin, using Jetpack Compose and Firebase.
 
 So far, the app includes google authentication, and the typing field with smooth cursor and scroll animations and information / graphs about how you type. The goal is to implement a multiplayer mode using Firebase. 
 <p>
